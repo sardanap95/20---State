@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Router Communications",
+        "description": "The main purpose of this project was to create a communication between the Router, Switches and the Client.",
+        "image": "./img/banner/Switches_router.jpg",
+        "link": "https://github.com/sardanap95"
+    },
+    {
+        "name": "Computer Assembly",
+        "description": "We made a Gaming computer and actually sold out it out for $950. ",
+        "image": "./img/banner/Gaming_comp.jpg",
+        "link": "https://github.com/sardanap95"
+    },
+    {
+        "name": "Rock Paper Scissors",
+        "description": "The purpose of this project was to make a simple old school game of Rock-paper and scissors using the For and While loop.",
+        "image": "./img/banner/Rock_Paper.png",
+        "link": "https://github.com/sardanap95"
+    },
+    {
+        "name": "Rock Paper Scissors",
+        "description": "The purpose of this project was to make a simple old school game of Rock-paper and scissors using the For and While loop.",
+        "image": "./img/banner/Rock_Paper.png",
+        "link": "https://github.com/sardanap95"
+    }
+]

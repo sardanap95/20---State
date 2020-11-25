@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#fcbf49",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#fbad17"
+    },
+    "peacock.color": "#fcbf49",
+    "liveServer.settings.port": 5501
+}
