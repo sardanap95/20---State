@@ -10,7 +10,7 @@ export class testimony extends Component {
             <div
               className={index % 2 !== 0 ? "row align-items-end justify-content-end d-flex" : "row"}
             >
-              <div className="col-8 " key={index}>
+              <div className="col-lg-8 col-12" key={index}>
                 <div className="card testimony-card m-3">
                   <div className="card-body">
                     <blockquote className="blockquote mb-0 testimony-text">

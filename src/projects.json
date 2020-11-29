@@ -1,26 +1,26 @@
 [
     {
-        "name": "Router Communications",
-        "description": "The main purpose of this project was to create a communication between the Router, Switches and the Client.",
-        "image": "./img/banner/Switches_router.jpg",
-        "link": "https://github.com/sardanap95"
+        "name": "Google Book Search",
+        "description": "A React app for book searches ans saving your favourite books.",
+        "image": "https://raw.githubusercontent.com/sardanap95/21-Mern/master/Screenshots/three.png",
+        "link": "https://github.com/sardanap95/21-Mern"
     },
     {
-        "name": "Computer Assembly",
-        "description": "We made a Gaming computer and actually sold out it out for $950. ",
-        "image": "./img/banner/Gaming_comp.jpg",
-        "link": "https://github.com/sardanap95"
+        "name": "Eat Da Burger",
+        "description": "A app mande using Handle bar and MySQL ",
+        "image": "https://raw.githubusercontent.com/sardanap95/13-MVC/master/Screenshots/ss.jpeg",
+        "link": "https://github.com/sardanap95/13-MVC"
     },
     {
-        "name": "Rock Paper Scissors",
-        "description": "The purpose of this project was to make a simple old school game of Rock-paper and scissors using the For and While loop.",
-        "image": "./img/banner/Rock_Paper.png",
-        "link": "https://github.com/sardanap95"
+        "name": "Online/Offline Budget Trackers",
+        "description": "A PWA for managing your expenses.",
+        "image": "https://raw.githubusercontent.com/sardanap95/18-PWA/master/Screenshots/ss.png",
+        "link": "https://github.com/sardanap95/18-PWA"
     },
     {
-        "name": "Rock Paper Scissors",
-        "description": "The purpose of this project was to make a simple old school game of Rock-paper and scissors using the For and While loop.",
-        "image": "./img/banner/Rock_Paper.png",
-        "link": "https://github.com/sardanap95"
+        "name": "Note Taker",
+        "description": "A basic notes takes app which stores and retrives notes from a json file.",
+        "image": "https://raw.githubusercontent.com/sardanap95/11-Express/master/Screenshots/one.png",
+        "link": "https://github.com/sardanap95/11-Express"
     }
 ]

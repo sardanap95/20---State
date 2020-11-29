@@ -112,9 +112,10 @@
 .site-main .skills-area .skills {
   background: rgba(248, 252, 253, 0.973);
   padding: 2rem 0;
-  width: 16rem;
-  height: 30rem;
-  margin: 5rem 0.5rem;
+
+  height: 28rem;
+  margin: 1rem;
+
   transition: box-shadow 0.7s ease;
 }
 
@@ -131,7 +132,6 @@
 /* Project Area */
 
 .project-card {
-  width: 28rem;
   height: 30rem;
 }
 
