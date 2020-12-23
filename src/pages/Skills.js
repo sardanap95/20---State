@@ -17,7 +17,10 @@ function Skills() {
           <article className="col-lg-3 col-md-6 col-sm-12">
             <div className="skills">
               <div className="skills-img text-center py-4">
-                <img src="./img/banner/MySQL.png" alt="skills-1" />
+                <img
+                  src="https://raw.githubusercontent.com/sardanap95/20-State/master/src/assests/img/banner/MySQL.png"
+                  alt="skills-1"
+                />
               </div>
               <div className="card-body text-center">
                 <h5 className="card-title text-uppercase font-roboto">MySQL</h5>
@@ -31,7 +34,10 @@ function Skills() {
           <article className="col-lg-3 col-md-6 col-sm-12">
             <div className="skills">
               <div className="skills-img text-center py-4">
-                <img src="./img/banner/HTML.png" alt="skills-2" />
+                <img
+                  src="https://raw.githubusercontent.com/sardanap95/20-State/master/src/assests/img/banner/HTML.png"
+                  alt="skills-2"
+                />
               </div>
               <div className="card-body text-center">
                 <h5 className="card-title text-uppercase font-roboto">HTML</h5>
@@ -45,7 +51,10 @@ function Skills() {
           <article className="col-lg-3 col-md-6 col-12 ">
             <div className="skills ">
               <div className="skills-img text-center py-4">
-                <img src="./img/banner/Web-design.png" alt="skills-3" />
+                <img
+                  src="https://raw.githubusercontent.com/sardanap95/20-State/master/src/assests/img/banner/Web-design.png"
+                  alt="skills-3"
+                />
               </div>
               <div className="card-body text-center">
                 <h5 className="card-title text-uppercase font-roboto">Web design</h5>
@@ -59,7 +68,10 @@ function Skills() {
           <article className="col-lg-3 col-md-6 col-sm-12">
             <div className="skills">
               <div className="skills-img text-center py-4">
-                <img src="./img/banner/java.png" alt="skills-4" />
+                <img
+                  src="https://raw.githubusercontent.com/sardanap95/20-State/master/src/assests/img/banner/java.png"
+                  alt="skills-4"
+                />
               </div>
               <div className="card-body text-center">
                 <h5 className="card-title text-uppercase font-roboto">Java</h5>

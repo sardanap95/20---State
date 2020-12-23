@@ -5,7 +5,11 @@ function About() {
         <div className="row">
           <div className="col-lg-6 col-md-12 align-items-center justify-content-center d-flex">
             <div className="about-image">
-              <img src="./img/brands/PS_2.JPG" alt="About us" className="img-fluid about-image " />
+              <img
+                src="https://raw.githubusercontent.com/sardanap95/20-State/master/src/assests/img/brands/PS_2.JPG"
+                alt="About us"
+                className="img-fluid about-image "
+              />
             </div>
           </div>
           <div className="col-lg-6 col-md-12 about-title">

@@ -23,7 +23,7 @@ function Home() {
           </div>
           <div className="col-lg-6 col-md-12 banner-image">
             <img
-              src="../assests/img/banner/banner-image.png"
+              src="https://raw.githubusercontent.com/sardanap95/20-State/master/src/assests/img/banner/banner-image.png"
               alt="banner-img"
               className="img-fluid"
             />
