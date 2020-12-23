@@ -2,7 +2,7 @@
 
 A updated portfolio made using react js.
 
-- [Visit the app](https://sardanap95.github.io/20-State/)
+- [Visit the app](https://pushpi-react.herokuapp.com/)
 
   ![alt text](/Screenshots/one.png)
   ![alt text](/Screenshots/two.png)
